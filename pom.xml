@@ -263,13 +263,13 @@
                 </configuration>
             </plugin>
       
-            <!-- Compilation, is a forked build with Java 1.6 specified -->
+            <!-- Compilation, is a forked build with Java 1.7 specified -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
-                    <source>1.6</source>
-                    <target>1.6</target>
+                    <source>1.7</source>
+                    <target>1.7</target>
                     <encoding>ISO-8859-1</encoding>
                     <fork>true</fork>
                     <meminitial>128m</meminitial>
