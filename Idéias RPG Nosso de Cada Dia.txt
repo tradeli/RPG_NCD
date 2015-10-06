@@ -1,0 +1,88 @@
+"Gerador" de cenários
+	-O Mestre escolhe características(tags) do ambiente que quer, e o sistema retorna uma imagem com as tags mais próximas encontradas
+
+Gerador de NPCs
+	-Botão para editar os status diretamente
+	-Sliders para cada característica(min=habilidade fraca, máx=habilidade forte)
+
+Cadastro de Fichas de Jogadores
+
+Cálculo automático de Danos e status com base no valor do(s) DADO(s)
+
+Base de dados com jogos de RPG
+	-Links úteis
+	-Resumos(???) sobre classes, raças, ataques, etc.
+	-Para os gratuitos incluir o PDF já no software???(muito pesado???)
+	-D&D
+	-Tormenta
+	-Vampires
+	-etc.
+
+Modo "Fazer Campanha"
+	-Storyline Central
+		-Terá uma linha com acontecimentos
+		-Melhor visualização do todo para planejamento(somente visto pelo Mestre)
+	-O Mestre pode adicionar fotos do(s) cenário(s) e dos personagens
+		-Assim como notas descritivas/narrativas
+	-Adição de Música ambiente
+		-Pesquisa por nomes, autores ou por tags
+		-Ter um set já tageado
+		-Playlists
+			-Mudança automática ou manual durante as campanhas
+	-Possibilidade de adicionar quais jogadores estarão naquele ponto
+	-Gráficos comparativos entre os status dos jogadores e o dos NPCs criados para as batalhas
+		-Ajustes refletem nos gráficos dinamicamente???
+	-Ter templates/exemplos de campanhas
+		-Também com RPGs completo como exemplos???
+	-Botão "Gerar Campanha"
+		-Salva a campanha para utilização no modo campanha
+		-Deixar num arquivo temp por segurança
+
+Modo Campanha
+	-Execução da trilha sonora
+	-
+
+As tags, assim como os conteúdos, são colocados/ficam sob curadoria pela própria comunidade/por nós mesmos
+	-Possibilidade de alteração das tags pelos usuários
+		-Botão "Tornar alteração permanente"(para a sua instalação ou futuras)
+		-A alteração é enviada para nossos servidores para posterior avaliação para correção
+
+
+Divulgação
+	-Em fórums da área
+	-JovemNerd
+
+
+
+Quais tecnologias usar?
+	-Chromium Framework para PC com C++
+	-Unity com C#
+	-Java
+	-Python
+
+Futuro?
+	-Pago ou free(não opensource) + doações/propagandas ou opensource(GPL ou LGPL ou BSD???) + doações
+	-Gravação de áudio
+		-Da partida
+			-Anexadas nos pontos precisos da Storyline
+	-Aplicativo Android gratuito
+		-Funcionalidades extras(realmente úteis!!!) pagas
+		-Integração com o software de PC
+			-Ao comprar o de PC, automaticamente já ganha "Chaves"(quantas???) para desbloqueio do App
+		-Propaganda do software para PC
+		-Ou ser totalmente gratuito!
+	-Mapas 2D/3D de batalha
+	-Gerador GERADOR!!! de mapas
+		-3D(Unity) ou 2D???
+		-O Mestre escolhe as características(tags)
+	-Criador de personagens drag'n drop
+		-Basta "jogar" a característica em cima do personagem que ela automaticamente se funde à ele
+		-Partes(Nariz de palhaço, tumor, berruga, pelo, etc.)
+		-Características físicas gerais(porte físico, cor da pele, raça, estatura, etc.)
+		-Características específicas(quantidade de pernas, dedos, orelhas, etc., tamanho de dedos, pernas, unhas, etc.)
+	-IMPRESSÃO 3D DOS SEUS PERSONAGENS/CENÁRIOS
+
+
+NOTAS::::
+Random generators: Sometimes you just need something you haven't had time to prepare. Place or NPC names are common, as are dungeons, treasure, traps, and... just about everything, really. I've actually run entire sessions off of random generators. Google is your friend on this one.
+Automated die roller: Take your pick. I wrote my own to use from a Linux command line. It helps to be able to roll large numbers of dice quickly and without digging around for (say) 30d6 when the wizard goes nova. Excel macros are good for this too.
